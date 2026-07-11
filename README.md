@@ -129,11 +129,11 @@ Clear messages are displayed instead of allowing the program to crash.
 
 Watch the project demonstration:
 
-[YouTube Demo Video](PASTE_YOUR_YOUTUBE_VIDEO_LINK_HERE)
+[Demo Video](https://drive.google.com/file/d/1e_pjXx-gTCqtszEhQm-nLf3-DjodivYi/view?usp=sharing)
 
 Try the live application:
 
-[Open Streamlit App](PASTE_YOUR_STREAMLIT_APP_LINK_HERE)
+[Open Streamlit App](https://intelligent-resume-analyzerhidevs-my8edzuh7ah9lvdt8fgltz.streamlit.app/)
 
 ## Sample Output
 
