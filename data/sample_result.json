@@ -1,0 +1,52 @@
+{
+  "candidate_data": {
+    "file_name": "sample_resume.txt",
+    "candidate_name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "phone_number": "+1 415 555 0188",
+    "skills": [
+      "aws",
+      "data analysis",
+      "docker",
+      "flask",
+      "git",
+      "linux",
+      "pandas",
+      "postgresql",
+      "python",
+      "scikit-learn",
+      "sql"
+    ],
+    "years_of_experience": "5 years",
+    "education": [
+      "Master of Science in Computer Science, Stanford University",
+      "Bachelor of Science in Information Technology, UC Berkeley"
+    ],
+    "raw_text_preview": "Jane Doe\njane.doe@example.com\n+1 415 555 0188\n\nSummary\nSoftware engineer with 5 years of experience building Python applications, REST APIs, and data workflows.\n\nSkills\nPython, SQL, pandas, scikit-learn, Docker, AWS, Git, Linux\n\nExperience\nSenior Software Engineer, TechNova (2021-Present)\n- Developed Python-based automation tools and data pipelines\n- Built REST APIs with Flask and deployed services on AWS\n- Improved data analysis workflows using pandas and scikit-learn\n\nSoftware Engineer, DataWorks (2019-2021)\n- Built ETL pipelines and maintained PostgreSQL databases\n- Supported backend services and CI/CD processes\n\nEducation\nMaster of Science in Computer Science, Stanford University\nBachelor of Science in Information Technology, UC Berkeley",
+    "source_text": "Jane Doe jane.doe@example.com +1 415 555 0188 Summary Software engineer with 5 years of experience building Python applications, REST APIs, and data workflows. Skills Python, SQL, pandas, scikit-learn, Docker, AWS, Git, Linux Experience Senior Software Engineer, TechNova (2021-Present) - Developed Python-based automation tools and data pipelines - Built REST APIs with Flask and deployed services on AWS - Improved data analysis workflows using pandas and scikit-learn Software Engineer, DataWorks (2019-2021) - Built ETL pipelines and maintained PostgreSQL databases - Supported backend services and CI/CD processes Education Master of Science in Computer Science, Stanford University Bachelor of Science in Information Technology, UC Berkeley"
+  },
+  "match_result": {
+    "required_skills": [
+      "aws",
+      "docker",
+      "git",
+      "machine learning",
+      "pandas",
+      "python",
+      "sql"
+    ],
+    "matched_skills": [
+      "aws",
+      "docker",
+      "git",
+      "pandas",
+      "python",
+      "sql"
+    ],
+    "missing_skills": [
+      "machine learning"
+    ],
+    "score": 86,
+    "recommendation": "Strong Match"
+  }
+}

@@ -1,0 +1,16 @@
+Intelligent Resume Analyzer - Hiring Report
+============================================
+Candidate Name: Jane Doe
+Email: jane.doe@example.com
+Phone Number: +1 415 555 0188
+Years of Experience: 5 years
+Education: Master of Science in Computer Science, Stanford University, Bachelor of Science in Information Technology, UC Berkeley
+Extracted Skills: aws, data analysis, docker, flask, git, linux, pandas, postgresql, python, scikit-learn, sql
+Match Score: 86/100
+Recommendation: Strong Match
+Matched Skills: aws, docker, git, pandas, python, sql
+Missing Skills: machine learning
+
+Summary:
+The candidate's profile was compared against the provided job requirements.
+The recommendation is based on the proportion of required skills that were found.

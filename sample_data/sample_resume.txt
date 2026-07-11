@@ -1,0 +1,23 @@
+Jane Doe
+jane.doe@example.com
++1 415 555 0188
+
+Summary
+Software engineer with 5 years of experience building Python applications, REST APIs, and data workflows.
+
+Skills
+Python, SQL, pandas, scikit-learn, Docker, AWS, Git, Linux
+
+Experience
+Senior Software Engineer, TechNova (2021-Present)
+- Developed Python-based automation tools and data pipelines
+- Built REST APIs with Flask and deployed services on AWS
+- Improved data analysis workflows using pandas and scikit-learn
+
+Software Engineer, DataWorks (2019-2021)
+- Built ETL pipelines and maintained PostgreSQL databases
+- Supported backend services and CI/CD processes
+
+Education
+Master of Science in Computer Science, Stanford University
+Bachelor of Science in Information Technology, UC Berkeley
